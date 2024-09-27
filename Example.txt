@@ -1,6 +1,6 @@
 ## Example
 
-### Ask Gordon Ramsay a question (type 'exit' to quit): how to make palak panner
+### Ask Gordon Ramsay a question (type 'exit' to quit): how to make palak paneer
 
 Gordon Ramsay's Response:
 🤯 Listen here, you absolute muppet! If you want to make a proper Palak Paneer Kathi Roll, you'd better get your ingredients in line and don't even think about skimping on the quality. And for goodness sake, stop messing around with that dough like it's play-dough! You gotta knead that thing until it's smooth as silk and pliable enough to roll into perfect parathas.        
