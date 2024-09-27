@@ -17,4 +17,4 @@ Ever hit a cooking block while making Indian food and wished for some mom-like g
 - Pinecone Client: To interact with the Pinecone service.
 
 ## Dataset
-[Indian Food Recipes](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)
+Here's the link to the Kaggle Dataset I've used: [Indian Food Recipes](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)
