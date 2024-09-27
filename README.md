@@ -1,6 +1,6 @@
 # Gordon Ramsay Chatbot
 
-This is a conversational AI chatbot modeled to imitate Gordon Ramsay's cooking advice style. The chatbot uses a **ConversationalRetrievalChain** from LangChain and integrates **LlamaCpp** for language generation. The responses are delivered with humor and a touch of Gordon Ramsay’s signature insults.
+Ever hit a cooking block while making Indian food and wished for some mom-like guidance? Look no further – Gordon Ramsay Bot is here! This chatbot will help you cook Indian dishes with Ramsay's flair, mixing practical tips with his classic insults to spice up your experience! 🌶
 
 ## Features
 - Retrieves relevant information about Indian recipes using Pinecone vectorstore.
@@ -16,9 +16,5 @@ This is a conversational AI chatbot modeled to imitate Gordon Ramsay's cooking a
 - dotenv
 - PineconeClient
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/praneeetha1/GordanRamsayBot.git
+## Dataset
+[Indian Food Recipes](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)
