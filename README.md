@@ -1,6 +1,6 @@
-# Gordon Ramsay Chatbot
+# Gordon Ramsay Chatbot 👨🏻‍🍳
 
-Ever hit a cooking block while making Indian food and wished for some mom-like guidance? Look no further – Gordon Ramsay Bot is here! This chatbot will help you cook Indian dishes with Ramsay's flair, mixing practical tips with his classic insults to spice up your experience! 🌶
+Ever hit a cooking block while making Indian food and wished for some mom-like guidance? Look no further :) – Gordon Ramsay Bot is here! This chatbot will help you cook Indian dishes with Ramsay's flair, mixing practical tips with his classic insults to spice up your experience! 
 
 ## Features
 - Retrieves relevant information about Indian recipes using Pinecone vectorstore.
