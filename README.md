@@ -8,13 +8,13 @@ Ever hit a cooking block while making Indian food and wished for some mom-like g
 - Generates responses using the Llama-2 model with Gordon Ramsay’s style.
   
 ## Requirements
-- Python 3.8+
-- Pinecone API Key
-- LangChain
-- LangChain Community LlamaCpp
-- Sentence Transformers (HuggingFace)
-- dotenv
-- PineconeClient
+- Python 3.8+: Make sure you're using a compatible version of Python.
+- Pinecone API Key: For accessing the Pinecone vectorstore.
+- LangChain: For building the conversational framework.
+- LangChain Community LlamaCpp: To utilize the Llama-2 model for generating responses.
+- HuggingFace Sentence Transformers: For generating embeddings from the text.
+- python-dotenv: To manage environment variables from a .env file.
+- Pinecone Client: To interact with the Pinecone service.
 
 ## Dataset
 [Indian Food Recipes](https://www.kaggle.com/datasets/sooryaprakash12/cleaned-indian-recipes-dataset)
